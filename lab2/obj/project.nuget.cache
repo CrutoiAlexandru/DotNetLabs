@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CmExuSImYUcbOOxqyFWlJCRDy2/VMbMMdLP9fK5KmuhhP/MBVfb8J3ThhGQqq2S0eB9IzQ6BZ/nDnjg2562NtQ==",
+  "dgSpecHash": "KE4NHFvcMtmOAKyULGarB5f9llcyWYB2u+S3SoKFr1XWSd7bVmA5vJrWchygPXaFMsGqmV+RZQSZSkg1Ybvb6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACrutoi\\school\\medii de programare\\Crutoi_Alexandru_Lab2\\Crutoi_Alexandru_Lab2.csproj",
+  "projectFilePath": "C:\\Users\\ACrutoi\\SCHOOL\\DotNetLabs\\lab2\\Crutoi_Alexandru_Lab2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACrutoi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ACrutoi\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
