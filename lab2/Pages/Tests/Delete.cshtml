@@ -19,9 +19,9 @@
             @Html.DisplayFor(model => model.Test.Name)
         </dd>
     </dl>
-    
+
     <form method="post">
-        <input type="hidden" asp-for="Test.Id" />
+        <input type="hidden" asp-for="Test.ID" />
         <input type="submit" value="Delete" class="btn btn-danger" /> |
         <a asp-page="./Index">Back to List</a>
     </form>

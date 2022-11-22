@@ -89,9 +89,9 @@ namespace Crutoi_Alexandru_Lab2.Pages.Books
             return Page();
         }
 
-private bool BookExists(int id)
+        private bool BookExists(int id)
         {
-          return _context.Book.Any(e => e.ID == id);
+            return _context.Book.Any(e => e.ID == id);
         }
     }
 }

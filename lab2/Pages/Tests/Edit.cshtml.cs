@@ -30,7 +30,7 @@ namespace Crutoi_Alexandru_Lab2.Pages.Tests
                 return NotFound();
             }
 
-            var test =  await _context.Test.FirstOrDefaultAsync(m => m.Id == id);
+            var test = await _context.Test.FirstOrDefaultAsync(m => m.ID == id);
             if (test == null)
             {
                 return NotFound();
@@ -56,7 +56,7 @@ namespace Crutoi_Alexandru_Lab2.Pages.Tests
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!TestExists(Test.Id))
+                if (!TestExists(Test.ID))
                 {
                     return NotFound();
                 }
@@ -71,7 +71,7 @@ namespace Crutoi_Alexandru_Lab2.Pages.Tests
 
         private bool TestExists(int id)
         {
-          return _context.Test.Any(e => e.Id == id);
+            return _context.Test.Any(e => e.ID == id);
         }
     }
 }

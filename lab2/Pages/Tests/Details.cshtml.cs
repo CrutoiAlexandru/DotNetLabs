@@ -19,7 +19,7 @@ namespace Crutoi_Alexandru_Lab2.Pages.Tests
             _context = context;
         }
 
-      public Test Test { get; set; }
+        public Test Test { get; set; }
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
@@ -28,12 +28,12 @@ namespace Crutoi_Alexandru_Lab2.Pages.Tests
                 return NotFound();
             }
 
-            var test = await _context.Test.FirstOrDefaultAsync(m => m.Id == id);
+            var test = await _context.Test.FirstOrDefaultAsync(m => m.ID == id);
             if (test == null)
             {
                 return NotFound();
             }
-            else 
+            else
             {
                 Test = test;
             }
