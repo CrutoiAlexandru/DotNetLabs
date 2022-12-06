@@ -351,3 +351,5 @@ C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\bin\Debug\net6.0-w
 C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
 C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
 C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLiteNetExtensions.dll
