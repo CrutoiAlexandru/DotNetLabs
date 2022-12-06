@@ -345,3 +345,9 @@ C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\obj\Debug\net6.0-w
 C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\shop_list.scale-100.jpg
 C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\pacman.scale-100.png
+C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll

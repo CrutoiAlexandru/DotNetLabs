@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-29T13:15:54.611</Modified>
+      <Modified>2022-12-06T10:08:38.786</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-11-29T13:15:53.687</Modified>
+      <Modified>2022-12-06T10:08:38.008</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Crutoi_Alexandru_lab7.runtimeconfig.json">
       <PackagePath>Crutoi_Alexandru_lab7.runtimeconfig.json</PackagePath>
-      <Modified>2022-11-29T13:05:57.978</Modified>
+      <Modified>2022-12-06T10:08:37.553</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Crutoi_Alexandru_lab7.dll">
       <PackagePath>Crutoi_Alexandru_lab7.dll</PackagePath>
-      <Modified>2022-11-29T13:15:52.155</Modified>
+      <Modified>2022-12-06T10:08:34.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Crutoi_Alexandru_lab7.exe</PackagePath>
-      <Modified>2022-11-29T13:15:52.200</Modified>
+      <Modified>2022-12-06T10:08:34.687</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ACrutoi\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.9\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1053,6 +1053,26 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2022-07-19T16:53:02.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ACrutoi\.nuget\packages\sqlite-net-pcl\1.8.116\lib\netstandard2.0\SQLite-net.dll">
+      <PackagePath>SQLite-net.dll</PackagePath>
+      <Modified>2021-09-02T21:04:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ACrutoi\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+      <Modified>2020-09-03T17:13:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ACrutoi\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll">
+      <PackagePath>SQLitePCLRaw.nativelibrary.dll</PackagePath>
+      <Modified>2020-09-03T17:13:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ACrutoi\.nuget\packages\sqlitepclraw.core\2.0.4\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+      <Modified>2020-09-03T17:13:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ACrutoi\.nuget\packages\sqlitepclraw.provider.dynamic_cdecl\2.0.4\lib\netstandard2.0\SQLitePCLRaw.provider.dynamic_cdecl.dll">
+      <PackagePath>SQLitePCLRaw.provider.dynamic_cdecl.dll</PackagePath>
+      <Modified>2020-09-03T17:13:18.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ACrutoi\.nuget\packages\microsoft.graphics.win2d\1.0.3.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
       <Modified>2022-04-28T15:57:10.000</Modified>
@@ -1061,9 +1081,13 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-07-19T16:53:02.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ACrutoi\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\win-x64\native\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2020-08-17T14:38:20.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Crutoi_Alexandru_lab7.deps.json">
       <PackagePath>Crutoi_Alexandru_lab7.deps.json</PackagePath>
-      <Modified>2022-11-29T13:15:54.444</Modified>
+      <Modified>2022-12-06T10:08:38.580</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.536\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
