@@ -8,133 +8,133 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Crutoi_Alexandru_Lab2
 build_property.RootNamespace = Crutoi_Alexandru_Lab2
-build_property.ProjectDir = C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab2\
+build_property.ProjectDir = c:\Users\ACrutoi\School\Dotnetlabs\lab2\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab2
+build_property.MSBuildProjectDirectory = c:\Users\ACrutoi\School\Dotnetlabs\lab2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Authors/Create.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Authors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aG9yc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Authors/Delete.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Authors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aG9yc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Authors/Details.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Authors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aG9yc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Authors/Edit.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Authors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aG9yc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Authors/Index.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Authors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aG9yc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Books/Create.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Books/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Books/Delete.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Books/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Books/Details.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Books/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Books/Edit.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Books/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Books/Index.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Books/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Categories/Create.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Categories/Delete.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Categories/Details.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Categories/Edit.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Categories/Index.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Error.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Privacy.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Publishers/Create.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Publishers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaGVyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Publishers/Delete.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Publishers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaGVyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Publishers/Details.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Publishers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaGVyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Publishers/Edit.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Publishers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaGVyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Publishers/Index.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Publishers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaGVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Tests/Create.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Tests/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Tests/Delete.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Tests/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Tests/Details.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Tests/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Tests/Edit.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Tests/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Tests/Index.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Tests/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/_ViewImports.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/_ViewStart.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACrutoi/SCHOOL/DotNetLabs/lab2/Pages/Shared/_Layout.cshtml]
+[c:/Users/ACrutoi/School/Dotnetlabs/lab2/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ommpc9rwh2

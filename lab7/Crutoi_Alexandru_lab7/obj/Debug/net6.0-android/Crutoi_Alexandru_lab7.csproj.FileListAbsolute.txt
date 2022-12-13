@@ -1008,3 +1008,7 @@ C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\obj\Debug\net6.0-a
 C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\obj\Debug\net6.0-android\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
 C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\obj\Debug\net6.0-android\android\assets\SQLitePCLRaw.nativelibrary.dll
 C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\obj\Debug\net6.0-android\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\obj\Debug\net6.0-android\lp\163\jl\files.cache
+C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\obj\Debug\net6.0-android\lp\164\jl\files.cache
+C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\obj\Debug\net6.0-android\lp\167\jl\files.cache
+C:\Users\ACrutoi\SCHOOL\DotNetLabs\lab7\Crutoi_Alexandru_lab7\obj\Debug\net6.0-android\lp\169\jl\files.cache
